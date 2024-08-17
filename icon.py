@@ -15,7 +15,7 @@ class Icon():
     __name = "Empty"
 
 
-    def __init__(self, filename:None, width=None, height=None, x=None, y=None, name=None):
+    def __init__(self, filename=None, width=None, height=None, x=None, y=None, name=None):
         """ Sets up the default values """
         if width:
             self.__width = width

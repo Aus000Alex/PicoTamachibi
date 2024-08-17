@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-python.vscode-pylance",
+        "paulober.pico-w-go",
+        "njpwerner.autodocstring",
+        "KevinRose.vsc-python-indent"
+    ]
+}
